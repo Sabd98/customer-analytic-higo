@@ -8,14 +8,14 @@ Cara Pemakaian:
 dengan ketik sesuai maing-masing package manager yang biasa dipakai:
 npm install|npm i | bun i | yarn install| yarn add
 6. Kemudian pasang .env untuk koneksi dari database mongo atlas dengan isi bisa cek
-langkah dari file pdf saya
+langkah dari file pdf saya. "Dokumentasi Technical Test HIGO Fullstack - Sabda Avicenna.pdf"
 7. Kemudian jalankan server dengan ketik npm run dev | bun run dev | npm start | bun start
 8. Jika sudah lihat info port jalan dimana, link swagger api, dan MongoDB connected,
 berarti server berhasil dijalankan dan sudah connect db mongo atlas saya.
 9. Buka link swagger untuk cek api yang tersedia: http://localhost:5000/api-docs
 10. Tes satu-satu API yang tersedia apakah berjalan dan outputnya seperti apa. Panduan
-lengkap cek PDF.
-11. Setelah tes API, redirect ke customer-analytic-fe atau buka link fe yang sudah dideploy di:
+lengkap cek pdf "Dokumentasi Technical Test HIGO Fullstack - Sabda Avicenna.pdf"
+11. Setelah tes API, redirect ke customer-analytic-fe atau buka link url frontendnya yang sudah dideploy dan dihost di: https://cusboard.vercel.app/
 Jika menjalankan secara manual:
 12. Install package dependency, bisa cek ulang langkah 5
 13. Jalankan build dengan npm run build | bun run build | yarn run build (opsional)

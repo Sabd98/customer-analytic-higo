@@ -21,4 +21,4 @@ Jika menjalankan secara manual:
 13. Jalankan build dengan npm run build | bun run build | yarn run build (opsional)
 14. Jalankan aplikasi fe, bisa cek ulang langkah 7 untuk perintahnya.
 15. Setelah run development/production berhasil, maka akan redirect ke link web.
-16. Website sudah berhasil dirender dan digunakan. Semoga sukses.
+16. Website sudah berhasil dirender dan digunakan. Semoga sukses!
